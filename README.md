@@ -1,24 +1,3 @@
-# hello-world
+# Avaliação Final - Desenvolvimento Web (Lab)
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![alt text](https://github.com/LuizHAC/af-des-web/blob/master/Foto%20P%C3%A1gina.png?raw=true)
